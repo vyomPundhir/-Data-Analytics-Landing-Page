@@ -1,5 +1,5 @@
 *{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -28,19 +28,19 @@
   flex-direction: row;
   margin-top: 24px;
   margin-left: 287px;
-  gap: 33px;
+  gap: 36px;
 }
 .nav-items{
-  font-size: 11.3px;
-  font-weight: 600;
+  font-size: 11.5px;
+  font-weight: 500;
 }
 .dn{
   padding-top: 1px;
   margin-left: -1px;
-  width: 8px;
+  width: 8.5px;
 }
 .nav-btn{
-  margin-left: 33.5px;
+  margin-left: 36px;
   margin-top: 16px;
   padding-top: 7.5px;
   border-radius: 20px;
@@ -49,7 +49,7 @@
   height: 32.5px;
   text-align: center;
   color: #9460e1;
-  font-size: 11.5px;
+  font-size: 12px;
   font-weight: 600;
 }
 /* data section */
@@ -62,42 +62,48 @@
 .data-left{
   width: 50%;
   margin-left: 200px;
-  margin-top: 50px;
+  margin-top: 45px;
 }
 .data-v {
-  background: rgb(232, 219, 238);
-  width:230px;
-  height: 30px;
+  background: rgb(247, 232, 252);
+  width:215px;
+  height: 32px;
   display:flex;
   flex-direction:row;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   border-radius: 20px;
 }
 .data-v img{
-  width: 13px;
+  width: 13.5px;
+  margin-top: -1px;
 }
 .v3-txt{
   margin-left: 10px;
   color: #8556ca;
   font-size: 13.5px;
   font-weight: 600;
+  padding-top: 8px;
 }
 .data-head{
-  font-size: 39px;
+  font-size: 40px;
+  letter-spacing: 0.5px;
   font-weight: 700;
   width: 400px;
-  line-height: 40px;
-  margin-top: 20px;
+  line-height: 41px;
+  margin-top: 19px;
+}
+.data-head span{
+  letter-spacing: 0px;
 }
 .data-des{
-  margin-top: 23px;
+  letter-spacing: 0.1px;
+  margin-top: 21px;
   color: grey;
   font-size: 13.5px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 20px;
-  width: 430px;
-  
+  width: 410px;
 }
 .data-btn{
   display: flex;
@@ -106,7 +112,7 @@
 }
 .free-trial-btn{
   background-color: #722ED1;
-  padding-top: 7.5px;
+  padding-top: 8.5px;
   border-radius: 20px;
   width: 120px;
   height: 32.5px;
@@ -117,15 +123,15 @@
 }
 .learn-more-btn{
   color: #722ED1;
-  font-size: 11.5px;
+  font-size: 12px;
   font-weight: 600;
-  padding-top: 7.5px;
+  padding-top: 8.5px;
   border-radius: 20px;
-  width: 100px;
+  width: 105px;
   height: 32.5px;
   text-align: center;
   background-color: #fff;
-  margin-left: 15px;
+  margin-left: 13px;
 }
 
 .data-right{
@@ -133,15 +139,6 @@
 }
 .data-right img{
   margin-top: 14px;
-  margin-left: 5px;
+  margin-left: 1px;
   width: 400px;
 }
-
-
-/* 
-.skew{
-  width: 100%;
-  height: 500px;
-  background: linear-gradient(to bottom left, red, yellow);
-  transform: skew(0deg, -10deg);
-} */
