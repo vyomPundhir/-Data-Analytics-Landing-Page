@@ -258,3 +258,53 @@
   width: 270px;
   line-height: 20px;
 }
+/* launch section */
+.launch{
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+}
+.launch-left img{
+  width: 350px;
+  margin-left: 184px;
+  margin-top: 9px;
+}
+.launch-right{
+  margin-top: 121px;
+  margin-left: 73.5px;
+}
+.launch-teams{
+  width: 190px;
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(247, 232, 252);
+  align-items: center;
+  gap: 11.5px;
+  border-radius: 20px;
+}
+.launch-teams img{
+  width: 21px;
+  margin-left: 14px;
+}
+.prd-teams{
+  color: #722ED1;
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.launch-head{
+  margin-top: 19px;
+  font-size: 25.5px;
+  letter-spacing: 0.8px;
+  font-weight: 700;
+}
+.launch-des{
+  margin-top: 23px;
+  width: 400px;
+  font-size: 13.5px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  color: grey;
+  line-height: 20px;
+}
