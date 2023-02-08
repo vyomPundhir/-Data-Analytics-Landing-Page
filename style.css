@@ -308,3 +308,54 @@
   color: grey;
   line-height: 20px;
 }
+/* pipeline section */
+.pipe{
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+}
+.pipe-left{
+  margin-left: 195px;
+  margin-top: 125px;
+}
+.pipe-teams{
+  width: 220px;
+  border-radius: 20px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(247, 232, 252);
+  padding-left: 14px;
+  gap: 11.5px;
+}
+.pipe-teams img{
+  width: 21px;
+}
+.eng-teams{
+  margin-top: 7px;
+  color: #722ED1;
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.pipe-head{
+  margin-top: 20px;
+  margin-left: 1px;
+  font-size: 25.5px;
+  letter-spacing: 0.8px;
+  font-weight: 700;
+}
+.pipe-des{
+  margin-top: 23px;
+  width: 400px;
+  font-size: 13.5px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  color: grey;
+  line-height: 20px;
+}
+.pipe-right img{
+  width: 580px;
+  margin-top: 36px;
+  margin-left: -16.5px;
+}
