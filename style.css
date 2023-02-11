@@ -445,12 +445,12 @@
   position: absolute;
   font-size: 13.5px;
   font-weight: 500;
-  color: grey;
+  color: rgb(184, 184, 184);
 }
 .sign-left-bot{
   width: 350px;
   margin-top: 40px;
-  border-top: grey solid 1.5px;
+  border-top: rgb(184, 184, 184) solid 1.5px;
 }
 .multilogo-1{
   display: flex;
@@ -471,4 +471,20 @@
 }
 .multilogo-2 img{
   width: 88px;
+}
+.sign-right{
+  
+}
+.pink-bgc{
+  margin-top:-4px;
+  margin-left: 44px;
+  border-radius: 3px;
+  background-color: rgb(250, 240, 253);
+  width: 405px;
+  height: 408px;
+}
+.sign-up-form{
+  position: absolute;
+  width: 385px;
+  background-color: rgb(217, 217, 217);
 }
