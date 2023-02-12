@@ -575,3 +575,38 @@
 .sign-right-login span{
   color: #722ED1;
 }
+/* footer section */
+.footer{
+  margin-top: 54px;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+}
+.ft-logo{
+  margin-left: 222px;
+  width: 170px;
+}
+.ft-logo-img img{
+  width: 88px;
+}
+.ft-logo-des{
+  margin-left: -1px;
+  line-height: 17px;
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 13px;
+}
+.ft-social{
+  margin-top: 18px;
+}
+.fb,.tw{
+  width: 14px;
+}
+.tw{
+  width: 13.5px;
+  margin-left: 5.5px;
+}
+.ig{
+  width: 13.5px;
+  margin-left: 8px;
+}
