@@ -472,9 +472,6 @@
 .multilogo-2 img{
   width: 88px;
 }
-.sign-right{
-  
-}
 .pink-bgc{
   margin-top:-4px;
   margin-left: 44px;
@@ -484,7 +481,97 @@
   height: 408px;
 }
 .sign-up-form{
+  box-shadow: 0.5px 0.5px 10px 0.5px rgb(196, 196, 196);
   position: absolute;
-  width: 385px;
-  background-color: rgb(217, 217, 217);
+  width: 360px;
+  background-color: white;
+  margin-left: 66px;
+  margin-top:-442px;
+  height: 418px;
+  border-radius: 3px;
+}
+.sign-right-head{
+  font-size: 20px;
+  letter-spacing: 0.5;
+  margin-top: 26px;
+  text-align: center;
+  font-weight: 700;
+}
+.sign-right-trial{
+  border-radius: 3px;
+  padding-top: 12px;
+  margin-top: 16px;
+  text-align: center;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  color: rgb(235, 235, 235);
+  width: 290px;
+  height: 40px;
+  background-color: #722ED1;
+  margin-left: 36px;
+}
+.sign-right-email{
+  padding-left: 12px;
+  margin-top: 14px;
+  width: 290px;
+  color: rgb(149, 149, 149);
+  height: 40px;
+  font-weight: 500;
+  border-radius: 3px;
+  font-size: 13.5px;
+  margin-left: 36px;
+  padding-top: 12px;
+  border: rgb(189, 189, 189) solid 1.5px;
+}
+.sign-right-password{
+  padding-left: 12px;
+  margin-top: 14px;
+  width: 290px;
+  height: 40px;
+  color: rgb(149, 149, 149);
+  border-radius: 3px;
+  font-size: 13.5px;
+  font-weight: 500;
+  margin-left: 36px;
+  padding-top: 12px;
+  border: rgb(189, 189, 189) solid 1.5px;
+}
+.sign-right-re-password{
+  margin-top: 14px;
+  padding-left: 12px;
+  width: 290px;
+  font-weight: 500;
+  height: 40px;
+  border-radius: 3px;
+  color: rgb(149, 149, 149);
+  font-size: 13.5px;
+  margin-left: 36px;
+  padding-top: 12px;
+  border: rgb(189, 189, 189) solid 1.5px;
+}
+.sign-right-or{
+  font-size: 13.5px;
+  font-weight: 600;
+  margin-top: 13px;
+  letter-spacing: 0.5;
+  text-align: center;
+}
+.sign-right-google img{
+  width: 170px;
+  margin-top: 13px;
+  margin-left: 96px;
+}
+.sign-right-login{
+  width: 290px;
+  margin-top: 9px;
+  padding-top: 11px;
+  text-align: center;
+  margin-left: 36px;
+  border-top: 1.5px solid rgb(189, 189, 189);
+  font-size: 12px;
+  color: rgb(149, 149, 149);
+  font-weight: 500;
+}
+.sign-right-login span{
+  color: #722ED1;
 }
