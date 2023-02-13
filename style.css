@@ -578,7 +578,7 @@
 /* footer section */
 .footer{
   margin-top: 54px;
-  height: 400px;
+  height: 288px;
   display: flex;
   flex-direction: row;
 }
@@ -599,7 +599,7 @@
 .ft-social{
   margin-top: 18px;
 }
-.fb,.tw{
+.fb{
   width: 14px;
 }
 .tw{
@@ -609,4 +609,93 @@
 .ig{
   width: 13.5px;
   margin-left: 8px;
+}
+.ft-product{
+  margin-left: 40px;
+}
+.ft-product-head{
+  font-size: 13.5px;
+  font-weight: 700;
+  margin-top: -2px;
+}
+.ft-product-menu{
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 11.5px;
+}
+.ft-1{
+  padding-top: 3px;
+}
+.ft-for{
+  margin-left: 33px;
+}
+.ft-for-head{
+  font-size: 13.5px;
+  font-weight: 700;
+  margin-top: -2px;
+  letter-spacing: 0.3px;
+}
+.ft-for-menu{
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 11.5px;
+}
+.ft-2{
+  padding-top: 3px;
+}
+.ft-company{
+  margin-left: 33px;  
+}
+.ft-company-head{
+  font-size: 13.5px;
+  font-weight: 700;
+  margin-top: -2px;
+}
+.ft-company-menu{
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 11.5px;
+}
+.ft-3{
+  padding-top: 3px;
+}
+.ft-support{
+  margin-left: 35px;
+}
+.ft-support-head{
+  font-size: 13.5px;
+  font-weight: 700;
+  margin-top: -2px;
+}
+.ft-support-menu{
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 11.5px;
+}
+.ft-4{
+  padding-top: 3px;
+}
+.ft-newsletter{
+  margin-left: 36px;
+}
+.ft-newsletter-head{
+  font-size: 13.5px;
+  font-weight: 700;
+  margin-top: -2px;
+}
+.ft-mail{
+  margin-top: 18px;
+  height: 33px;
+  width: 150px;
+  box-shadow: 0.1px 0.1px 11px 0.1px grey;
+  padding-top: 2px;
+  padding-left: 13px;
+  font-size: 10px;
+  font-weight: 600;
+  color: rgb(159, 159, 159);
+}
+.ft-mail img{
+  width: 17.5px;
+  margin-top: 7px;
+  margin-left: 83px;
 }
