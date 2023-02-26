@@ -63,7 +63,7 @@ I'm definitely more confident now in creating a webpage similar to this one.
 ## Live Link of the project
 
 >The link of the project is provided given below:
-https://vercel.com/vyompundhir 
+https://data-analytics-landing-page.vercel.app/
 
 ## Feedback
 
