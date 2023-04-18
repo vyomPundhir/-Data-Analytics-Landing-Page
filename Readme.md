@@ -74,3 +74,6 @@ https://data-analytics-landing-page.vercel.app/
 
 > ![SS](./ss-of-the-project.png)
 ---
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://data-analytics-landing-page.vercel.app/)
+
+---
